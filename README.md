@@ -1,4 +1,4 @@
-# simple_interest
+# Simple-Interest
 
 Calculate Simple Interest
 
